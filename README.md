@@ -12,3 +12,5 @@ https://anaumov1.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alexandru Naumov
+
+### ©️2019 Run Buddy, Inc 
